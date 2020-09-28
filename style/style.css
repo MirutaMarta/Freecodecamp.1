@@ -1,0 +1,32 @@
+#one {
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    font-family: Lobster;
+}
+
+#b{
+    color: indigo;
+    font-family: monospace;
+    font-size: large;
+}
+
+#c{
+    font-size: 18px;
+    text-align: right;
+    font-family:  'Lucida Sans Unicode';
+}
+#d {
+    color: black;
+    text-align: initial;
+    font-family: Lobster;
+}
+#e{
+    color: black;
+    font-size: 18px;
+}
+#f{
+    color: blanchedalmond;
+    background-color: cornflowerblue;
+    font-size: 20px;
+}
